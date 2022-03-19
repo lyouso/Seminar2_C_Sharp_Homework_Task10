@@ -10,7 +10,7 @@ void MakeReverse(int current_number)
     }
     else
     {
-        if (current_number > 1000)
+        if (current_number > 999)
         {
             Console.WriteLine("Вы ввели неверное число, введите заново");
         }
